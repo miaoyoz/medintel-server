@@ -4,7 +4,18 @@ ktor:
       - com.miaoyongzheng.ApplicationKt.module
   deployment:
     port: 8080
+  development: true
 jwt:
-  domain: "https://jwt-provider-domain/"
-  audience: "jwt-audience"
-  realm: "ktor sample app"
+  domain: "https://miaoyongzheng.com/"
+  secret: "miaoyongzheng-secret"
+  audience: "miaoyongzheng-audience"
+  issuer: "miaoyongzheng-issuer"
+  realm: "miaoyongzheng-realm"
+mysql:
+  url: "jdbc:mysql://localhost:3306/medintel"
+  username: "root"
+  password: "123456"
+  driver: "com.mysql.cj.jdbc.Driver"
+redis:
+  host: "http://localhost"
+  port: 6379

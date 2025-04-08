@@ -1,0 +1,214 @@
+-- Insert statements for department categories
+INSERT INTO department_categories (name, detail_category) VALUES ('妇产科', '妇产科');
+INSERT INTO department_categories (name, detail_category) VALUES ('妇产科', '产科');
+INSERT INTO department_categories (name, detail_category) VALUES ('妇产科', '妇科');
+INSERT INTO department_categories (name, detail_category) VALUES ('妇产科', '妇科肿瘤科');
+INSERT INTO department_categories (name, detail_category) VALUES ('妇产科', '妇女保健科');
+INSERT INTO department_categories (name, detail_category) VALUES ('妇产科', '计划生育科');
+INSERT INTO department_categories (name, detail_category) VALUES ('妇产科', '生殖医学科');
+INSERT INTO department_categories (name, detail_category) VALUES ('妇产科', '遗传咨询科');
+INSERT INTO department_categories (name, detail_category) VALUES ('妇产科', '妇科内分泌科');
+INSERT INTO department_categories (name, detail_category) VALUES ('妇产科', '妇泌尿科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('皮肤科', '皮肤科');
+INSERT INTO department_categories (name, detail_category) VALUES ('皮肤科', '小儿皮肤科');
+INSERT INTO department_categories (name, detail_category) VALUES ('皮肤科', '皮肤性病科');
+INSERT INTO department_categories (name, detail_category) VALUES ('皮肤科', '性病科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('内科', '内科');
+INSERT INTO department_categories (name, detail_category) VALUES ('内科', '普通内科');
+INSERT INTO department_categories (name, detail_category) VALUES ('内科', '过敏反应科');
+INSERT INTO department_categories (name, detail_category) VALUES ('内科', '风湿免疫科');
+INSERT INTO department_categories (name, detail_category) VALUES ('内科', '呼吸内科');
+INSERT INTO department_categories (name, detail_category) VALUES ('内科', '老年科');
+INSERT INTO department_categories (name, detail_category) VALUES ('内科', '内分泌科');
+INSERT INTO department_categories (name, detail_category) VALUES ('内科', '神经内科');
+INSERT INTO department_categories (name, detail_category) VALUES ('内科', '肾内科');
+INSERT INTO department_categories (name, detail_category) VALUES ('内科', '消化内科');
+INSERT INTO department_categories (name, detail_category) VALUES ('内科', '心血管内科');
+INSERT INTO department_categories (name, detail_category) VALUES ('内科', '血液内科');
+INSERT INTO department_categories (name, detail_category) VALUES ('内科', '高压氧科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('外科', '外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('外科', '肝胆胰外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('外科', '肛肠科');
+INSERT INTO department_categories (name, detail_category) VALUES ('外科', '甲状腺乳腺外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('外科', '乳腺外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('外科', '甲状腺外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('外科', '泌尿外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('外科', '胃肠外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('外科', '普通外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('外科', '器官移植科');
+INSERT INTO department_categories (name, detail_category) VALUES ('外科', '烧伤科');
+INSERT INTO department_categories (name, detail_category) VALUES ('外科', '神经外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('外科', '心外科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('眼科', '眼科');
+INSERT INTO department_categories (name, detail_category) VALUES ('眼科', '白内障科');
+INSERT INTO department_categories (name, detail_category) VALUES ('眼科', '角膜病科');
+INSERT INTO department_categories (name, detail_category) VALUES ('眼科', '青光眼科');
+INSERT INTO department_categories (name, detail_category) VALUES ('眼科', '屈光科');
+INSERT INTO department_categories (name, detail_category) VALUES ('眼科', '眼底科');
+INSERT INTO department_categories (name, detail_category) VALUES ('眼科', '眼外伤科');
+INSERT INTO department_categories (name, detail_category) VALUES ('眼科', '眼整形科');
+INSERT INTO department_categories (name, detail_category) VALUES ('眼科', '眼肿瘤科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('骨科', '骨科');
+INSERT INTO department_categories (name, detail_category) VALUES ('骨科', '创伤骨科');
+INSERT INTO department_categories (name, detail_category) VALUES ('骨科', '骨质疏松科');
+INSERT INTO department_categories (name, detail_category) VALUES ('骨科', '关节外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('骨科', '脊椎外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('骨科', '矫形骨科');
+INSERT INTO department_categories (name, detail_category) VALUES ('骨科', '手外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('骨科', '运动医学科');
+INSERT INTO department_categories (name, detail_category) VALUES ('骨科', '足踝外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('骨科', '手足外科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('口腔科', '口腔科');
+INSERT INTO department_categories (name, detail_category) VALUES ('口腔科', '儿童口腔科');
+INSERT INTO department_categories (name, detail_category) VALUES ('口腔科', '口腔颌面外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('口腔科', '口腔修复科');
+INSERT INTO department_categories (name, detail_category) VALUES ('口腔科', '口腔粘膜科');
+INSERT INTO department_categories (name, detail_category) VALUES ('口腔科', '口腔正畸科');
+INSERT INTO department_categories (name, detail_category) VALUES ('口腔科', '口腔种植科');
+INSERT INTO department_categories (name, detail_category) VALUES ('口腔科', '牙体牙髓科');
+INSERT INTO department_categories (name, detail_category) VALUES ('口腔科', '牙周科');
+INSERT INTO department_categories (name, detail_category) VALUES ('口腔科', '口腔急症科');
+INSERT INTO department_categories (name, detail_category) VALUES ('口腔科', '口腔预防科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '儿科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '儿童保健科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '儿童重症监护科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿风湿免疫科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿感染科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿呼吸内科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿泌尿外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿内分泌科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿神经内科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿神经外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿肾内科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿内科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿消化科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿心内科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿心外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿胸外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿血液科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '新生儿科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿骨科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '儿童精神心理科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '儿童康复科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '儿童营养科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿肿瘤科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿牙科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '生长发育科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿妇科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿急症科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿整形科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿五官科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '小儿眼科');
+INSERT INTO department_categories (name, detail_category) VALUES ('儿科', '新生儿外科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('耳鼻咽喉头颈外科', '耳鼻咽喉头颈外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('耳鼻咽喉头颈外科', '耳鼻咽喉科');
+INSERT INTO department_categories (name, detail_category) VALUES ('耳鼻咽喉头颈外科', '头颈外科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医感染科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医肝病科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医儿科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医耳鼻咽喉科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医妇科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医骨科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医康复科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医男科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医皮肤科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医肛肠科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医乳腺外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医眼科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医神经内科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '针灸推拿科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医风湿免疫科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医呼吸内科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医老年病科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医内分泌科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医肾病科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医消化科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医心血管科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医血液病可');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医肿瘤科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医内科');
+INSERT INTO department_categories (name, detail_category) VALUES ('中医科', '中医精神科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('肿瘤科', '肿瘤科');
+INSERT INTO department_categories (name, detail_category) VALUES ('肿瘤科', '骨肿瘤科');
+INSERT INTO department_categories (name, detail_category) VALUES ('肿瘤科', '放疗科');
+INSERT INTO department_categories (name, detail_category) VALUES ('肿瘤科', '肿瘤内科');
+INSERT INTO department_categories (name, detail_category) VALUES ('肿瘤科', '肿瘤外科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('男科', '男科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('精神心理科', '精神心理科');
+INSERT INTO department_categories (name, detail_category) VALUES ('精神心理科', '心理咨询科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('康复医学科', '康复医学科');
+INSERT INTO department_categories (name, detail_category) VALUES ('康复医学科', '理疗科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('整形美容', '整形美容科');
+INSERT INTO department_categories (name, detail_category) VALUES ('整形美容', '整形外科');
+INSERT INTO department_categories (name, detail_category) VALUES ('整形美容', '医疗美容科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('营养科', '营养科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('体验科', '体验科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('健康管理科', '健康管理科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('中西医结合科', '中西医结合科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('医学影像科', '医学影像科');
+INSERT INTO department_categories (name, detail_category) VALUES ('医学影像科', '超声科');
+INSERT INTO department_categories (name, detail_category) VALUES ('医学影像科', '放射科');
+INSERT INTO department_categories (name, detail_category) VALUES ('医学影像科', '核医学科');
+INSERT INTO department_categories (name, detail_category) VALUES ('医学影像科', '介入科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('罕见病科', '罕见病科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('病理科', '病理科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('麻醉疼痛科', '麻醉疼痛科');
+INSERT INTO department_categories (name, detail_category) VALUES ('麻醉疼痛科', '麻醉科');
+INSERT INTO department_categories (name, detail_category) VALUES ('麻醉疼痛科', '疼痛科');
+INSERT INTO department_categories (name, detail_category) VALUES ('麻醉疼痛科', '神经外科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('核酸检测科', '核酸检测科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('全科', '全科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('医学遗传科', '医学遗传科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('其他科', '其他科');
+INSERT INTO department_categories (name, detail_category) VALUES ('其他科', '心电功能科');
+INSERT INTO department_categories (name, detail_category) VALUES ('其他科', '护理科');
+INSERT INTO department_categories (name, detail_category) VALUES ('其他科', '急诊科');
+INSERT INTO department_categories (name, detail_category) VALUES ('其他科', '检验科');
+INSERT INTO department_categories (name, detail_category) VALUES ('其他科', '内镜科');
+INSERT INTO department_categories (name, detail_category) VALUES ('其他科', '药剂科');
+INSERT INTO department_categories (name, detail_category) VALUES ('其他科', '预防保健科');
+INSERT INTO department_categories (name, detail_category) VALUES ('其他科', '职业病科');
+INSERT INTO department_categories (name, detail_category) VALUES ('其他科', '重症医学科');
+INSERT INTO department_categories (name, detail_category) VALUES ('其他科', '神经电生理室');
+INSERT INTO department_categories (name, detail_category) VALUES ('其他科', '感染科');
+INSERT INTO department_categories (name, detail_category) VALUES ('其他科', '透析室');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('方便门诊', '方便门诊');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('发热门诊', '发热门诊');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('传染病科', '传染病科');
+INSERT INTO department_categories (name, detail_category) VALUES ('传染病科', '肝病科');
+
+INSERT INTO department_categories (name, detail_category) VALUES ('特殊门诊', '特殊门诊');
+INSERT INTO department_categories (name, detail_category) VALUES ('特殊门诊', '肠道门诊');
+INSERT INTO department_categories (name, detail_category) VALUES ('特殊门诊', '专家门诊');
